@@ -56,3 +56,31 @@ While the first player puts “X” in any one of the squares, and the second pl
 
 You can use the Pygame library for building this project. Pygame is loaded with all the modules you need for computer graphics and sound.*
 
+**13)Site Connectivity Checker**
+
+_The job of a site connectivity checker is to visit a URL and display the status of that URL, that is, whether or not it is a live URL. Usually, site connectivity checkers visit URLs at regular intervals and return the results each time. This project will work on the same lines – it will check the live status of URLs. Site connectivity checker is one of the interesting python projects for beginners.
+
+You must design the code for this application from scratch. As for your connections, you can either opt for TCP or ICMP. You can use click, docopt, or argparse frameworks for adding commands that will enable users to add and delete URLs from the list of URLs they want to check._
+
+**14)Content Aggregator**
+
+_The internet is filled with websites, articles, and information. When we want to find something, it is tough to go through each of them. For this use, you can create a content aggregator that automatically searches popular websites and looks for relevant content and then complies with all the content and lets the user choose which content they want. It is very much like Google but unbiased. And this is the perfect idea for your next python project!_
+
+**15)Bulk File Rename/ Image Resize Application**
+
+_This is an advanced project which needs you to be well-versed in Machine Learning. We will begin by teaching the program on how to pre-process data, then perform a few resize and rename images tasks. As the program starts learning, it can handle bulk functions at once._
+
+**16)Python File Explorer**
+
+_This is a significant project as it will test your knowledge on the various concepts of Python. You need to build an app that anyone uses to explore the files in their system. You can also add features like searching and copy-paste. Tkinter is a commendable choice for this project as it makes the development of GUI applications fast and easy.
+
+To create the Python File Explorer using Tkinter, you have to import the filedialog module from Tkinter. This module is designed for opening files and directories and saving them._
+
+**17)Plagiarism Checker**
+
+_Content writing is one of the most prolific online businesses. The market lacks a free tool that can be used to check for plagiarism in documents. You can use a natural language processing library along with the Google search API to create a program that searches the first few pages of Google and checks for plagiarism._
+
+**18)Web Crawler**
+
+_A web crawler is an automated program script that surfs the internet and stores the content of a particular webpage. A web crawler is one of the most useful python projects to find up-to-date information. You will need to use a multi-thread concept for such a program. You can use Python’s request module to make the crawler bot, or you can use Scrapy. It is Python’s open-source web crawling framework explicitly designed for web scraping and extracting data by using APIs._
+
